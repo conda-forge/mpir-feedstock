@@ -22,6 +22,7 @@ requirements:
     - m4              # [unix]
     - python
     - yasm            # [unix]
+    - make            # [unix]
   host:
   run:
 
